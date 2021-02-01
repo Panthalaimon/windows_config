@@ -20,7 +20,10 @@ install colorls
 
 #https://github.com/athityakumar/colorls
 
-$ sudo apt install ruby ruby-dev ruby-colorize
-$ sudo apt install build-essential
-$ sudo apt install libncurses5-dev
-$ sudo gem install colorls
+sudo apt install ruby ruby-dev ruby-colorize
+
+sudo apt install build-essential
+
+sudo apt install libncurses5-dev
+
+sudo gem install colorls

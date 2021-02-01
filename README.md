@@ -19,3 +19,8 @@ install colorls
 #https://medium.com/@alex285/get-powerlevel9k-the-most-cool-linux-shell-ever-1c38516b0caa
 
 #https://github.com/athityakumar/colorls
+
+$ sudo apt install ruby ruby-dev ruby-colorize
+$ sudo apt install build-essential
+$ sudo apt install libncurses5-dev
+$ sudo gem install colorls
